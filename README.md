@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Panharith!
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Front-End Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [MIS](https://www.google.com/search?q=What+Is+MIS+Major&sxsrf=AE3TifOJMx58FGh-V23QHvSLogc2fmaF4Q%3A1752482220178) at the University of [SETEC Institute](https://web.facebook.com/setecedu), Cambodia<br/>
 💭 Currently learning at Year 2 Semister 2<br/><br/>
 
