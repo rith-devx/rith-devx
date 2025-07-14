@@ -2,9 +2,7 @@
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [MIS](https://www.google.com/search?q=What+Is+MIS+Major&sxsrf=AE3TifOJMx58FGh-V23QHvSLogc2fmaF4Q%3A1752482220178) at the University of [SETEC Institute](https://web.facebook.com/setecedu), Cambodia<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/><br/>
+💭 Currently learning at Year 2 Semister 2<br/><br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=rith-devx&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
