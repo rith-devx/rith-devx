@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Panharith!
 
-👩🏻‍💻 Front-End Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [MIS](https://www.google.com/search?q=What+Is+MIS+Major&sxsrf=AE3TifOJMx58FGh-V23QHvSLogc2fmaF4Q%3A1752482220178) at the University of [SETEC Institute](https://web.facebook.com/setecedu), Cambodia<br/>
+👩🏻‍💻 Front-End Developer by day, bug whisperer by night haha.<br/>
+👩🏻‍🎓 [MIS](https://www.google.com/search?q=What+Is+MIS+Major&sxsrf=AE3TifOJMx58FGh-V23QHvSLogc2fmaF4Q%3A1752482220178) student at [SETEC Institute](https://web.facebook.com/setecedu), Cambodia (Currently in Year 2 Semester 2)<br/>
 💭 Currently learning at Year 2 Semister 2<br/><br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
