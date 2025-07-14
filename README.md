@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Panharith!
 
-🧑🏻‍💻 Front-End Developer by day, bug whisperer by night haha.<br/>
-🧑🏻‍🎓 [MIS](https://www.google.com/search?q=What+Is+MIS+Major&sxsrf=AE3TifOJMx58FGh-V23QHvSLogc2fmaF4Q%3A1752482220178) student at [SETEC Institute](https://web.facebook.com/setecedu), Cambodia (Currently in Year 2 Semester 2)<br/>
+🧑🏻‍💻 Front-End Developer by day, bug whisperer by night haha. 🧑🏻‍🎓 [MIS](https://www.google.com/search?q=What+Is+MIS+Major&sxsrf=AE3TifOJMx58FGh-V23QHvSLogc2fmaF4Q%3A1752482220178) student at [SETEC Institute](https://web.facebook.com/setecedu), Cambodia (Currently in Year 2 Semester 2)<br/>
 💭 Oh and thanks for visiting. No refunds on brain cells lost.<br/><br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
