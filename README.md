@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 Front-End Developer by day, bug whisperer by night haha. 
 🧑🏻‍🎓 [MIS](https://www.google.com/search?q=What+Is+MIS+Major&sxsrf=AE3TifOJMx58FGh-V23QHvSLogc2fmaF4Q%3A1752482220178) student at [SETEC Institute](https://web.facebook.com/setecedu), Cambodia (currently in Year 2, Semester 2).<br/>
-💭 Oh, and thanks for visiting. No refunds on brain cells lost.<br/><br/>
+💭 Oh, and thanks for visiting. No refunds on brain cells lost.
 #
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ### Languages:<br/>
